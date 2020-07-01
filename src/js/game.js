@@ -4,13 +4,13 @@ class Game {
     }
   }
   
-  export class GameSavingData {
-  }
+export class GameSavingData {
+}
   
-  export function readGameSaving() {
-  }
+export function readGameSaving() {
+}
   
-  export function writeGameSaving() {
-  }
-  import Character from './domain.js';
-  export default Game;
+export function writeGameSaving() {
+}
+import Character from './domain.js';
+export default Game;
